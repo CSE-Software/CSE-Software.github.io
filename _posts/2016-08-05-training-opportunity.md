@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Training opportunity"
-date: 2016-05-08 20:34:26
+date: 2016-08-05 20:34:26
 image: '/assets/img/'
 description: 'Training opportunity'
-main-class: 'jekyll'
+main-class: 'train'
 color: ''
 tags:
 - jekyll

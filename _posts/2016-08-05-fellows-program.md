@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Fellows program"
-date: 2016-05-08 20:34:26
+date: 2016-08-05 20:34:26
 image: '/assets/img/'
 description: 'Fellows program'
-main-class: 'jekyll'
+main-class: 'fellow'
 color: '#7D669E'
 tags:
 - jekyll

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Sign up for notifications"
-date: 2016-05-08 20:34:26
+date: 2016-08-05 20:34:26
 image: '/assets/img/'
 description: 'Sign up for notifications'
-main-class: 'jekyll'
+main-class: 'notice'
 color: '#B31917'
 tags:
 - jekyll

@@ -4,7 +4,7 @@ title: "Training opportunity"
 date: 2016-08-05 20:34:26
 image: '/assets/img/'
 description: 'Training opportunity'
-main-class: 'train'
+main-class: 'learn'
 color: ''
 tags:
 - jekyll

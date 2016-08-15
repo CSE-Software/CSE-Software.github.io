@@ -11,7 +11,7 @@ tags:
 - jekyll
 categories:
 twitter_text: 'How to use this template'
-introduction: 'How to use this template'
+introduction: 'Getting started with CSE Software'
 ---
 
 ## Cards Jekyll Template - [Demo](http://willianjusten.com.br/cards-jekyll-template)

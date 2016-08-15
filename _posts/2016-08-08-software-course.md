@@ -1,92 +1,68 @@
 ---
 layout: post
-title: "Search for specific topic"
-date: 2016-08-05 20:35:48
+title: "Software course."
+date: 2016-08-05 20:34:26
 image: '/assets/img/'
-description: 'Search for specific topic'
-main-class: 'search'
-color: '#637a91'
+description: 'Software course.'
+main-class: 'intro'
+color: '#EB7728'
 tags:
-- misc
 - jekyll
 categories:
-twitter_text: 'How to use this template'
-introduction: 'Looking for specific topic? Go here and search.'
+twitter_text: 'Put your twitter description here.'
+introduction: 'Put your description here.'
 ---
 
-## Introduction
-[Software](https://en.wikipedia.org/wiki/Software) now becomes essential part in our modern world. 
-Mastering software is required for all computer science researchers and students. 
-Learning more about software [here](https://collegeville.github.io/Lex/index.html). <br>
-[Computational science and engineering](https://en.wikipedia.org/wiki/Computational_engineering)(CSE)
-is about "development processes for software for computational science and engineering and related technical computing areas, 
-with a particular interest in CSE on high-performance (parallel) computers."
-Visit our [CSE website](https://cse-software.org/) for full detail.
+### Introduction
+[Software engineering](https://en.wikipedia.org/wiki/Software_engineering) now becomes very important in daily life. 
+Mastering software is required for all computer science students.
+You can read more about software [here](https://collegeville.github.io/Lex/SoftwareEngineeringBasics.html).
 
-
-## Online courses
+### Online courses
 * [Software development process](https://www.udacity.com/course/software-development-process--ud805)<br>
 * [Contrucx courses](http://ondemand.construx.com/catalog/)<br>
 * [Software carpentry lessons](http://software-carpentry.org/lessons/)
 
-## Tools and techinques
+### Tools and techinques
 Software tool and techniques effect on reducing software cost and time.
 Starting to learn by looking at this [overview](http://www.gao.gov/assets/200/192021.pdf) 
 
-### Common tool:
+#### Common tool:
 A popular tool used in software is [Git](https://en.wikipedia.org/wiki/Git_(software)) and [GitHub](https://en.wikipedia.org/wiki/GitHub).
-Here are some good resources for getting started: 
+Here are some good resources: <br>
 
 * [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 * [Git tutorial](https://www.atlassian.com/git/tutorials/)
 * [GitHub tutorial](https://guides.github.com/activities/hello-world/)
 
-Another useful tool is [Eclipse](https://eclipse.org/)
-Here are some good resources for getting started:
+#### Techniques
 
-* [Eclipse And Java: Free Video Tutorials](http://eclipsetutorial.sourceforge.net/totalbeginner.html)
-* [Eclipse Tutorial](http://www.tutorialspoint.com/eclipse/)
-
-### Techniques
-There are some useful techniques using on CSE software:
-
-* [Continuous Integration](https://www.thoughtworks.com/continuous-integration)
-* [Automated Testing](https://smartbear.com/learn/automated-testing/)
-* [Test Driven Development](http://agiledata.org/essays/tdd.html)
-* [Pair programming](https://www.agilealliance.org/glossary/pairing/)
-* [Design Patterns](http://www.tutorialspoint.com/design_pattern/design_pattern_overview.htm)
-* [Code refactoring](https://www.csie.ntu.edu.tw/~r95004/Refactoring_improving_the_design_of_existing_code.pdf)
-
-## Blogs
+### Blogs
 Click [here](https://cse-software.github.io/blogs/) to see blogs which are updated frequently by page members. 
 
-## Relevant project
-[IDEAS productivity](https://ideas-productivity.org/resources/) is a relevant project with purpose to improve compatibility and usability 
-of important DOE libraries, improve the practices, processes, and tools for scientific software development, and improve community knowledge.
+### Relevant project
+Go [ideas productivity](https://ideas-productivity.org/resources/) to see the relevant project.
 
-##  Relevant organization
-[Software Sustainability Institute](https://www.software.ac.uk/) is a relevant organization, 
-which was founded "to support the UK’s research software community".
+###  Relevant organization
+Go [ideas productivity](https://ideas-productivity.org/resources/) to see the relevant organization.
 
-## Sponsors
-This webpage has been created by [Michael A. Heroux](https://github.com/maherou) with assistance from
-[Duong Do](https://github.com/duongdo27) and [Jim Willenbring](https://github.com/jwillenbring). 
-Our project is sponsored and funded by [Sandia National Laboratories](http://www.sandia.gov/)/
+### Sponsors
+This webpage has been funded by [Sandia National Laboratories](http://www.sandia.gov/)
 
-## Frequently asked question:
+### Frequently asked question:
 There are two useful Q&A forums:
  
- * [Stack exchange](http://scicomp.stackexchange.com/)
+ * [Stack exchane](http://scicomp.stackexchange.com/)
  * [Stack overflow](http://stackoverflow.com/search?tab=relevance&q=software)
  
-## Journals
+### Journals
 Here are some good journal about CSE software:
 
 * [Improving CSE Software through Reproducibility Requirements](http://www.sandia.gov/~maherou/docs/HerouxSecseReproducibility.pdf)
 * [Profiling Deployed Software: Assessing Strategies and Testing Opportunities](http://cse.unl.edu/~elbaum/papers/journals/TSE-deployed05.pdf)
 * [Applying Software Engineering Methods and Tools to CSE Research Projects](http://ac.els-cdn.com/S1877050910001687/1-s2.0-S1877050910001687-main.pdf?_tid=2413702c-5ea4-11e6-aa99-00000aab0f02&acdnat=1470797155_ae500e279d8bc07bedc9981e8db597da)
 
-## Workshops and conferences:
+### Workshops and conferences:
 
 * [CSE 2016 : 1<sup>st</sup> Workshop on Continuous Software Engineering](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=49629&copyownerid=83124)
 * [CSE Conference and Workshop Papers](http://digitalcommons.unl.edu/cseconfwork/)
@@ -95,3 +71,29 @@ Here are some good journal about CSE software:
 * [Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE2.1@SciPy)](https://cse-software.org/workshop-on-sustainable-software-for-science-practice-and-experiences-wssspe2-1scipy/)
 * [Third International Workshop on Software Engineering for High Performance Computing in Computational Science and Engineering](https://cse-software.org/third-international-workshop-on-software-engineering-for-high-performance-computing-in-computational-science-and-engineering/)
 * [3<sup>rd</sup> Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE2) CFP1](https://cse-software.org/3rd-workshop-on-sustainable-software-for-science-practice-and-experiences-wssspe2-cfp1/)
+
+### What is Kanban?
+
+[Kanban](https://en.wikipedia.org/wiki/Kanban_(development)) is a useful tool for managing and optimizing workflow. 
+You can see example of Kanban board [here](https://leankit.com/learn/wp-content/uploads/2015/11/1-SmalDevelopmentTeamKanbanBoard-eb79376d-1024x647.png)
+For learning Kanban, check out [this tutorial](https://collegeville.github.io/Lex/GettingStartedWithKanban.html)
+
+### How can I run my CSE SW project meeting?
+
+ To achieve effective project meeting, follow these resources:
+ 
+ * [6 KEY TIPS FOR RUNNING EFFECTIVE PROJECT MEETINGS](https://www.projectsmart.co.uk/6-key-tips-for-running-effective-project-meetings.php)
+ * [Everything You Need to Know About Running a Project Meeting](http://www.amanet.org/training/articles/Everything-You-Need-to-Know-About-Running-a-Project-Meeting.aspx)
+ * [7 Habits of Highly Effective Meetings](http://projectmanagementhacks.com/meeting-tips/)
+ 
+### How can I do testing from the beginning?
+
+### How do I use scientific libraries?
+
+### How can I prepare for next generation HPC platforms?
+
+### Annotated literature bibliography by category
+
+
+
+

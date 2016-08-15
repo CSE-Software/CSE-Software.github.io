@@ -10,8 +10,24 @@ tags:
 - jekyll
 categories:
 twitter_text: 'Put your twitter description here.'
-introduction: 'Put your description here.'
+introduction: 'Want to join us? Click for more detail'
 ---
+
+### Annual selection process
+Any member in the community (junior, senior, CSE user, developer, etc.) can apply for selection. <br>
+Applicants submit ideas for engaging CSE community in two fields:   
+ * Organize event
+ * Conduct a study
+
+### Small stipend to cover expenses.
+
+### Fellows highlighted on site, resources for the community.
+
+### Alums from previous years tapped for help with:
+Alum are able to contribute in two fields:
+    
+
+
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
 To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.

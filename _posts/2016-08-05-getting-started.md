@@ -14,128 +14,50 @@ twitter_text: 'How to use this template'
 introduction: 'Getting started with CSE Software'
 ---
 
-## Cards Jekyll Template - [Demo](http://willianjusten.com.br/cards-jekyll-template)
+## What is Kanban?
 
-This is a difficult and minimalist template for Jekyll designed for developers that want to write blog posts but don't want to care about frontend stuff.
+[Kanban](https://en.wikipedia.org/wiki/Kanban_(development)) is a useful tool for managing and optimizing workflow. 
+Researchers often use Kanban board to organize their works. There are different kinds of Kanban board, but the general
+Kanban board has to contain at least 3 columns: to do, in progress, and done. <br>
+You can see example of Kanban board [here](https://leankit.com/learn/wp-content/uploads/2015/11/1-SmalDevelopmentTeamKanbanBoard-eb79376d-1024x647.png). <br>
+For learning Kanban, check out [this tutorial](https://collegeville.github.io/Lex/GettingStartedWithKanban.html)
 
-The Theme features:
+## How can I run my CSE SW project meeting?
 
-- Gulp
-- Stylus (Jeet, Rupture, Kouto Swiss)
-- Live Search
-- Offcanvas Menu
-- SVG icons
-- Very very small and fast!
-- Shell Script to create posts
-- Tags page
-- Series page
-- About Me page
-- Feed RSS
-- Sitemap.xml
-- Color Customization
-- Info Customization
+ To achieve effective project meeting, follow these resources:
+ 
+ * [6 KEY TIPS FOR RUNNING EFFECTIVE PROJECT MEETINGS](https://www.projectsmart.co.uk/6-key-tips-for-running-effective-project-meetings.php)
+ * [Everything You Need to Know About Running a Project Meeting](http://www.amanet.org/training/articles/Everything-You-Need-to-Know-About-Running-a-Project-Meeting.aspx)
+ * [7 Habits of Highly Effective Meetings](http://projectmanagementhacks.com/meeting-tips/)
+ 
+## How can I do testing from the beginning?
 
-## Basic Setup
+[Software testing](https://en.wikipedia.org/wiki/Software_testing) is an attempt to find mistake in the code.
+Testing successfully can avoids system failures, which may lead to disasters
+Because of its important, testing has to be implemented since the beginning.
+For testing from the beginning, [unit testing](https://en.wikipedia.org/wiki/Unit_testing) is recommended.
+Unit testing is the testing of individual function or class in a part of bigger project. 
+This helps early detect the error, therefore avoids wasting time and resources as project develops.
+After that, we can implement [Integration testing](https://en.wikipedia.org/wiki/Integration_testing) and 
+[System testing](https://en.wikipedia.org/wiki/System_testing).
+Here are some good resources on testing to get started with:
 
-1. [Install Jekyll](http://jekyllrb.com)
-2. Fork the [Will Jekyll Template](https://github.com/willianjusten/will-jekyll-template/fork)
-3. Clone the repo you just forked.
-4. Edit `_config.yml` to personalize your site.
-5. Check out the sample posts in `_posts` to see examples for assigning categories and tags, and other YAML data.
-6. Read the documentation below for further customization pointers and documentation.
-7. **Remember to compile your assets files with Gulp.**
+* [Software Testing Tutorial](http://www.tutorialspoint.com/software_testing/)
+* [Software Testing Tutorial: Free course](http://www.guru99.com/software-testing.html)
+* [SOFTWARE TESTING TUTORIAL](http://www.testingbrain.com/)
 
-## Site and User Settings
-
-You have to fill some informations on `_config.yml` to customize your site.
-
-```
-# Site settings
-description: A blog about lorem ipsum dolor sit amet
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://localhost:3000" # the base hostname & protocol for your site 
-
-# User settings
-username: Lorem Ipsum
-user_description: Anon Developer at Lorem Ipsum Dolor
-user_title: Anon Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
-disqus_username: lorem_ipsum
-```
-
-## Header Name
-
-To use the power of CSS Content and media query, the header name is defined on [src/styl/_header.styl](). Change to your prefered name.
-
-## Color customization
-
-All color variables are in `src/styl/variable`. To change the main color, just set the new value at `main` assignment. Another colors are for texts and the code background color.
-
-## Theme Colors
-
-Every post has a main color that is defined on [src/styl/_theme-colors.styl](). Just create a new color with the prefix `post-` and define your main-class: 'css' and color: '#2DA0C3' on every post you create.
-
-## Creating posts
-
-You can use the `initpost.sh` to create your new posts. Just follow the command:
-
-```
-./initpost.sh -c Post Title
-```
-
-The new file will be created at `_posts` with this format `date-title.md`.
-
-## Front-matter 
-
-When you create a new post, you need to fill the post information in the front-matter, follow this example:
-
-```
----
-layout: post
-title: "Falando sobre RSCSS"
-date: 2016-02-07 18:48:16
-image: '/assets/img/rscss/rscss.png'
-description: 'Escrevendo CSS sem perder a sanidade. Aprenda uma metodologia que pode salvar muitas dores de cabeça.'
-main-class: 'css'
-color: '#2DA0C3'
-tags:
-- css
-- metodologia
-- frontend
-categories:
-twitter_text: 'Escrevendo CSS sem perder a sanidade.'
-introduction: 'Escrevendo CSS sem perder a sanidade. Com essa introdução, Rico St. Cruz o criador chama a atenção de todos sobre uma metodologia melhor para se escrever CSS.'
----
-```
-
-## Running the blog in local
-
-In order to compile the assets and run Jekyll on local you need to follow those steps:
-
-- Install [NodeJS](https://nodejs.org/)
-- Run `npm install` 
-- Run `gulp`
-
-## Windows 10 Step
-
-If you use Windows 10, change this line on [gulpfile.js](https://github.com/willianjusten/will-jekyll-template/blob/gh-pages/gulpfile.js#L23) to `spawn('jekyll.bat', ['build'])`.
-
-## Questions
-
-Having a problem getting something to work or want to know why I setup something in a certain way? Ping me on Twitter [@willian_justen](https://twitter.com/willian_justen) or file a [GitHub Issue](https://github.com/willianjusten/will-jekyll-template/issues/new).
+## How do I use scientific libraries?
 
 
-## Donation
+## How can I prepare for next generation HPC platforms?
 
-If you liked my work, buy me a coffee <3
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UTMFZUHX6EUGE)
-
-## License
-
-This theme is free and open source software, distributed under the The MIT License. So feel free to use this Jekyll theme on your site without linking back to me or using a disclaimer.
-
-If you’d like to give me credit somewhere on your blog or tweet a shout out to [@willian_justen](https://twitter.com/willian_justen), that would be pretty sweet.
+[High performance computing](http://searchenterpriselinux.techtarget.com/definition/high-performance-computing)(HPC)
+ also called supercomputing, uses the [parallel computing](https://en.wikipedia.org/wiki/Parallel_computing) 
+ for running program in a quick and reliable way. Next generation of HPC platforms will be 
+ [Crays](http://cfms.org.uk/news-events/news/2016/june/cfms-selects-cray-for-next-generation-hpc-platform/)<br>
+ Here are some good resources:
+ 
+ * [Introduction to Parallel Computing](https://computing.llnl.gov/tutorials/parallel_comp/)
+ * [A Beginner’s Guide to High–Performance Computing](http://www.shodor.org/media/content/petascale/materials/UPModules/beginnersGuideHPC/moduleDocument_pdf.pdf) 
+ * [HPC for dummies](http://hpc.fs.uni-lj.si/sites/default/files/HPC_for_dummies.pdf)
+ * [Introduction to Cray](http://www.cray.com/products/analytics/urika-gx)

@@ -1,7 +1,7 @@
 # Site settings
 description: CSE Software Portal
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://127.0.0.1:4000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://cse-software.github.io/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Duong Do

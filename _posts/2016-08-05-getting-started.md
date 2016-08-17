@@ -48,6 +48,17 @@ Here are some good resources on testing to get started with:
 
 ## How do I use scientific libraries?
 
+Scientific libraries is the special libraries offer a wide range of mathematical routines such as Linear Algebra, Linear Solvers
+or Eigensystems. These libraries is helpful on reducing time and code for researchers because they are able to solve some particular
+problems. For example, the Linear Algebra library can solve all the linear algebra equations. <br>
+There are two recommended libraries for CSE Software:
+ 
+ * [Trilinos](https://trilinos.org/packages/)
+ * [GSL - GNU Scientific Library](https://www.gnu.org/software/gsl/)
+ 
+Instructions on using these scientific libraries can easily found on these two websites. <br>
+For any other libraries, you can easily find their instructions on the web page. <br>
+Contact for us for any questions on using scientific libraries
 
 ## How can I prepare for next generation HPC platforms?
 

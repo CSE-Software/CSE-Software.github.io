@@ -13,10 +13,18 @@ twitter_text: 'Put your twitter description here.'
 introduction: 'Upcoming events'
 ---
 
-### New How To
+## New announcements
 
-### New Training resources
+### Workshops
 
-### New announcements
+### Conferences
+
+### Journals
+
+### Books
+
+## Upcoming conferences
+
+
  
  

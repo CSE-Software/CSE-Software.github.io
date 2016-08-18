@@ -13,5 +13,6 @@ twitter_text: 'Put your twitter description here.'
 introduction: 'Collection of best practices for CSE Software'
 ---
 
-### Best practices
+## Best practices
 
+## Guide on study CSE Software

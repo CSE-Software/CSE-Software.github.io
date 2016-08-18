@@ -13,16 +13,28 @@ twitter_text: 'Put your twitter description here.'
 introduction: 'Want to join us? Click for more detail'
 ---
 
-### Annual selection process
-Any member in the community (junior, senior, CSE user, developer, etc.) can apply for selection. <br>
+## Annual selection process
+
+### Who can apply?
+
+Any member in the community (junior, senior, CSE user, developer, etc.) can apply for selection.
+
+### How to apply
+
 Applicants submit ideas for engaging CSE community in two fields:   
+ 
  * Organize event
  * Conduct a study
 
-### Small stipend to cover expenses.
+## Funding for fellowship program.
 
-### Fellows highlighted on site, resources for the community.
+## Recognition fellows 
 
-### Alums from previous years tapped for help with:
+## Resources for the community
+
+## Alums from previous years tapped for help with:
+
 Alum are able to contribute in two fields:
-    
+
+ * Selecting next class of fellows
+ * Surveys on issues in the CSE community.

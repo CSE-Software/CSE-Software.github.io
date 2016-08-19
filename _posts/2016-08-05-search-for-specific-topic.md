@@ -7,14 +7,16 @@ description: 'Search for specific topic'
 main-class: 'search'
 color: '#637a91'
 tags:
-- misc
-- jekyll
+- csesoftware
+- workshop
+- organization
 categories:
 twitter_text: 'How to use this template'
 introduction: 'Looking for specific topic? Go here and search.'
 ---
 
 ## Introduction
+
 [Software](https://en.wikipedia.org/wiki/Software) now becomes essential part in our modern world. 
 Mastering software is required for all computer science researchers and students. 
 Learning more about software [here](https://collegeville.github.io/Lex/index.html). <br>
@@ -25,15 +27,18 @@ Visit our [CSE website](https://cse-software.org/) for full detail.
 
 
 ## Online courses
+
 * [Software development process](https://www.udacity.com/course/software-development-process--ud805)<br>
 * [Contrucx courses](http://ondemand.construx.com/catalog/)<br>
 * [Software carpentry lessons](http://software-carpentry.org/lessons/)
 
 ## Tools and techinques
+
 Software tool and techniques effect on reducing software cost and time.
 Starting to learn by looking at this [overview](http://www.gao.gov/assets/200/192021.pdf) 
 
 ### Common tool:
+
 A popular tool used in software is [Git](https://en.wikipedia.org/wiki/Git_(software)) and [GitHub](https://en.wikipedia.org/wiki/GitHub).
 Here are some good resources for getting started: 
 
@@ -48,6 +53,7 @@ Here are some good resources for getting started:
 * [Eclipse Tutorial](http://www.tutorialspoint.com/eclipse/)
 
 ### Techniques
+
 There are some useful techniques using on CSE software:
 
 * [Continuous Integration](https://www.thoughtworks.com/continuous-integration)
@@ -58,28 +64,34 @@ There are some useful techniques using on CSE software:
 * [Code refactoring](https://www.csie.ntu.edu.tw/~r95004/Refactoring_improving_the_design_of_existing_code.pdf)
 
 ## Blogs
+
 Click [here](https://cse-software.github.io/blogs/) to see blogs which are updated frequently by page members. 
 
 ## Relevant project
+
 [IDEAS productivity](https://ideas-productivity.org/resources/) is a relevant project with purpose to improve compatibility and usability 
 of important DOE libraries, improve the practices, processes, and tools for scientific software development, and improve community knowledge.
 
 ##  Relevant organization
+
 [Software Sustainability Institute](https://www.software.ac.uk/) is a relevant organization, 
 which was founded "to support the UK’s research software community".
 
 ## Sponsors
+
 This webpage has been created by [Michael A. Heroux](https://github.com/maherou) with assistance from
 [Duong Do](https://github.com/duongdo27) and [Jim Willenbring](https://github.com/jwillenbring). 
 Our project is sponsored and funded by [Sandia National Laboratories](http://www.sandia.gov/)/
 
 ## Frequently asked question:
+
 There are two useful Q&A forums:
  
  * [Stack exchange](http://scicomp.stackexchange.com/)
  * [Stack overflow](http://stackoverflow.com/search?tab=relevance&q=software)
  
 ## Journals
+
 Here are some good journal about CSE software:
 
 * [Improving CSE Software through Reproducibility Requirements](http://www.sandia.gov/~maherou/docs/HerouxSecseReproducibility.pdf)

@@ -7,7 +7,7 @@ description: 'Training opportunity'
 main-class: 'learn'
 color: ''
 tags:
-- jekyll
+- csesoftware
 categories:
 twitter_text: 'Put your twitter description here.'
 introduction: 'Great opportunity for improving knowledge in CSE Software'
@@ -20,7 +20,7 @@ There are several new how to topic useful for CSE Software topic (continue updat
  * [How to take note](https://cse-software.github.io/Howto/NoteTaking.html)
  * [How to convert google doc to latex](https://cse-software.github.io/Howto/DocsToLatex.html)
  * [How to learn Jekyll](https://cse-software.github.io/Howto/IntroductionToJekyll.html)
- * [How to set up CSE Software web page theme and content](~/portal_tutorial.pdf)
+ * [How to set up CSE Software web page theme and content](/blog/portal_tutorial.pdf) 
 
 ## New training resources
 

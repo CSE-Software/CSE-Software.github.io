@@ -7,7 +7,8 @@ description: 'Upcoming events'
 main-class: 'event'
 color: '#B31917'
 tags:
-- jekyll
+- workshop
+- conference
 categories:
 twitter_text: 'Put your twitter description here.'
 introduction: 'Upcoming events'

@@ -7,7 +7,7 @@ description: 'Fellows program'
 main-class: 'fellow'
 color: '#7D669E'
 tags:
-- jekyll
+- fellow
 categories:
 twitter_text: 'Put your twitter description here.'
 introduction: 'Want to join us? Click for more detail'

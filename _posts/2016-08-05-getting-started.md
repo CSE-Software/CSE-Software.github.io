@@ -7,8 +7,9 @@ description: 'How to use this template'
 main-class: 'intro'
 color: '#B31917'
 tags:
-- misc
-- jekyll
+- csesoftware
+- blog
+- library
 categories:
 twitter_text: 'How to use this template'
 introduction: 'Getting started with CSE Software'

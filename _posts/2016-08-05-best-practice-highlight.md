@@ -7,7 +7,7 @@ description: 'Best practice highlight'
 main-class: 'practice'
 color: '#D6BA25'
 tags:
-- jekyll
+- csesoftware
 categories:
 twitter_text: 'Put your twitter description here.'
 introduction: 'Collection of best practices for CSE Software'

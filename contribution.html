@@ -1,0 +1,79 @@
+---
+layout: minimal
+title: "How to contribute"
+permalink: /contribution/index.html
+description: "How to contribute"
+---
+
+<h2> Admins only </h2>
+
+<p> First of all, join our GitHub page at <a href="https://github.com/CSE-Software/CSE-Software.github.io"></a>CSE Software</a>.
+You need to email professor <a href="mailto:mheroux@csbsju.edu">Michael Heroux</a> for permission.</p>
+
+<h3>Overview about our web page</h3>
+
+<p>Our web page contains 8 main sections including:
+<ul>
+    <li><strong>Best practice highlight:</strong> contain best exercises for CSE Software</li>
+    <li><strong>Blog: </strong>contain all blog posted by members</li>
+    <li><strong>Fellow program: </strong>contain all program </li>
+    <li><strong>Getting started:</strong> contain basic methodologies guide</li>
+    <li><strong>Search for scientific topic: </strong> contain all resources for major CSE Software activities</li>
+    <li><strong>Sign up for notification:</strong> community engagement by sign up our google group</li>
+    <li><strong>Training opportunities:</strong> guide for study CSE Software</li>
+    <li><strong>Upcoming events:</strong> contain new announcements and upcoming workshop, conference.</li>
+</ul>
+
+<p>Our web page also contain some navigations including:</p>
+<ul>
+    <li><strong>Home:</strong> comeback to homepage</li>
+    <li><strong>Community:</strong> introduction for community engagement</li>
+    <li><strong>Bibliography: </strong>CSE Software Annotated Bibliography </li>
+    <li><strong>About us:</strong> brief information about us and our project</li>
+</ul>
+
+<h3>How to edit and contribute our web page?</h3>
+
+<p> <strong>Prerequisite:</strong> basic understanding on <a href="http://www.w3schools.com/html/default.asp">HTML</a>
+    and <a href="http://www.markdowntutorial.com/">Markdown</a>. After that, follow
+    <a href="/blog/portal_tutorial.pdf">this instruction</a></p>. Then, take a look at "gulpfile.js" file to see
+    what can be changed and how to regenerate web page after generating. Full instruction on specific editing come follow.
+
+<ol>
+    <li><em>Edit main page:</em>
+        <ul>
+        <li>All 8 main sections are written in markdown language located on "_post" directory.
+            In the markdown file, the text between two "---" decode the theme while the rest of the file decide the content.
+            Only need refresh web page after changing stuff. </li>
+        <li>Main section banner are written in HTML and all located on "category" directory.
+            Only need refresh web page after changing stuff. </li>
+        <li>"_config.yml" contains important setup for main page. After change, run "gulp jekyll-rebuild" and then
+        "jekyll serve" to validate the change.</li>
+        </ul>
+    </li>
+
+    <li><em>Edit page navigation:</em>
+        <ul>
+            <li>Update navigation content: Web page navigation locate in the correspond HTML files.
+            Only need refresh web page after changing stuff.</li>
+            <li>Add/Remove navigation: Go to "_config.yml", find "links" and add/remove link, then add/remove correspond html file.
+            After change, run "gulp jekyll-rebuild" and then "jekyll serve" to validate the change.</li>
+        </ul>
+    </li>
+
+    <li><em>Update web page theme:</em> <br>
+        Web page theme are located on "src/styl" directory. After change, run "gulp jekyll-rebuild" and then
+        "jekyll serve" to validate the change.
+    </li>
+
+    <li><em>Writing blog: </em> <br>
+    Blog posts are written in HTML and located in blog directory. Take a look at my sample blog for creating a new one.</li>
+</ol>
+
+<h2> For members </h2>
+
+<ol>
+    <li>Subscribe our <a href="https://groups.google.com/forum/#!forum/csesoftware">google group for more information</a></li>
+    <li>Send blog posts for us at <a href="mailto:dhdo@csbsju.edu">dhdo@csbsju.edu</a></li>
+    <li>Contact  <a href="mailto:dhdo@csbsju.edu">Duong Do</a> for any question, concern or improvement for our web page</li>
+</ol>

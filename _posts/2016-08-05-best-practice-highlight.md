@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Best practice highlight"
+title: "Contribute to Best Practices"
 date: 2016-08-05 20:34:26
 image: '/assets/img/'
 description: 'Contribute a Best Practice'

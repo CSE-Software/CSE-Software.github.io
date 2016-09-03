@@ -7,9 +7,10 @@ description: 'How to use this template'
 main-class: 'intro'
 color: '#B31917'
 tags:
-- csesoftware
-- blog
-- library
+- Kanban
+- software_testing
+- scientific_library
+- hpc_platform
 categories:
 twitter_text: 'How to use this template'
 introduction: 'Getting started with CSE Software'
@@ -25,7 +26,7 @@ For learning Kanban, check out [this tutorial](https://collegeville.github.io/Le
 
 ## How can I run my CSE SW project meeting?
 
- To achieve effective project meeting, follow these resources:
+ To achieve effective project meetings, follow these resources:
  
  * [6 KEY TIPS FOR RUNNING EFFECTIVE PROJECT MEETINGS](https://www.projectsmart.co.uk/6-key-tips-for-running-effective-project-meetings.php)
  * [Everything You Need to Know About Running a Project Meeting](http://www.amanet.org/training/articles/Everything-You-Need-to-Know-About-Running-a-Project-Meeting.aspx)
@@ -72,4 +73,6 @@ Contact for us for any questions on using scientific libraries
  * [Introduction to Parallel Computing](https://computing.llnl.gov/tutorials/parallel_comp/)
  * [A Beginner’s Guide to High–Performance Computing](http://www.shodor.org/media/content/petascale/materials/UPModules/beginnersGuideHPC/moduleDocument_pdf.pdf) 
  * [HPC for dummies](http://hpc.fs.uni-lj.si/sites/default/files/HPC_for_dummies.pdf)
+ * [Best Practices in HPC Software Development](http://insidehpc.com/2016/05/video-what-all-codes-should-do-overview-of-best-practices-in-hpc-software-development/)
+ * [Developing, Configuring, Building, and Deploying HPC Software](http://insidehpc.com/2016/05/58848/)
  * [Introduction to Cray](http://www.cray.com/products/analytics/urika-gx)

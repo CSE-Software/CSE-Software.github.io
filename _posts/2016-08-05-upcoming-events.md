@@ -9,6 +9,7 @@ color: '#B31917'
 tags:
 - workshop
 - conference
+- book&journal
 categories:
 twitter_text: 'Put your twitter description here.'
 introduction: 'Upcoming events'

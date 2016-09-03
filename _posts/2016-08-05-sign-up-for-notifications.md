@@ -7,8 +7,8 @@ description: 'Sign up for notifications'
 main-class: 'notice'
 color: '#B31917'
 tags:
-- email
-- subcribe
+- mailing_list
+- webinar_singup
 categories:
 twitter_text: 'Put your twitter description here.'
 introduction: 'Follow us to receive latest news'

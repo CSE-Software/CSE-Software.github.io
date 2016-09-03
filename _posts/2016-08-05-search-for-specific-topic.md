@@ -7,9 +7,10 @@ description: 'Search for specific topic'
 main-class: 'search'
 color: '#637a91'
 tags:
-- csesoftware
-- workshop
-- organization
+- courses
+- tool&technique
+- related_efforts 
+
 categories:
 twitter_text: 'How to use this template'
 introduction: 'Looking for specific topic? Go here and search.'
@@ -72,10 +73,12 @@ Click [here](https://cse-software.github.io/blogs/) to see blogs which are updat
 [IDEAS productivity](https://ideas-productivity.org/resources/) is a relevant project with purpose to improve compatibility and usability 
 of important DOE libraries, improve the practices, processes, and tools for scientific software development, and improve community knowledge.
 
-##  Relevant organization
+##  Relevant organizations 
 
-[Software Sustainability Institute](https://www.software.ac.uk/) is a relevant organization, 
-which was founded "to support the UK’s research software community".
+ * [Software Sustainability Institute](https://www.software.ac.uk/) 
+ * [Computational Science & Engineering Software Forum](cse-software.org)
+ * [Data Carpentry](http://www.datacarpentry.org/)
+ * [Software Carpentry](https://software-carpentry.org/)
 
 ## Sponsors
 

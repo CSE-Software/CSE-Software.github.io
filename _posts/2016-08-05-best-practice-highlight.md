@@ -7,7 +7,7 @@ description: 'Contribute a Best Practice'
 main-class: 'practice'
 color: '#D6BA25'
 tags:
-- csesoftware
+- howto
 categories:
 twitter_text: 'Put your twitter description here.'
 introduction: 'Collection of best practices for CSE Software'

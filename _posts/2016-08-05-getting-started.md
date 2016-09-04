@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Getting started"
-date: 2016-08-05 20:35:48
+date: 2016-09-01 20:35:48
 image: '/assets/img/'
 description: 'How to use this template'
 main-class: 'intro'
@@ -47,6 +47,7 @@ Here are some good resources on testing to get started with:
 * [Software Testing Tutorial](http://www.tutorialspoint.com/software_testing/)
 * [Software Testing Tutorial: Free course](http://www.guru99.com/software-testing.html)
 * [SOFTWARE TESTING TUTORIAL](http://www.testingbrain.com/)
+* [Software Testing: How to Make Software Fail](https://www.udacity.com/course/software-testing--cs258)
 
 ## How do I use scientific libraries?
 

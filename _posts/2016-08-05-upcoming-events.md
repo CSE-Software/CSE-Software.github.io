@@ -15,18 +15,15 @@ twitter_text: 'Put your twitter description here.'
 introduction: 'Upcoming events'
 ---
 
-## New announcements
+## Workshops and conferences
 
-### Workshops
+ * [Responding to the Software Crisis in DOE Scientific Computing](https://ideas-productivity.org/resources/workshops/2015-09-software-crisis/)
+ * [Scientific Software Productivity at Extreme Scale](https://ideas-productivity.org/resources/workshops/2015-03-siam-cse/)
+ 
+## Journals and books
 
-### Conferences
-
-### Journals
-
-### Books
-
-## Upcoming conferences
-
+ * [Overview: Software Productivity Challenges for Extreme-Scale Science](https://ideas-productivity.org/wordpress/wp-content/uploads/2015/04/2015-03-15-ideas-motivation-overview-siam-cse15.pdf)
+ 
 
  
  

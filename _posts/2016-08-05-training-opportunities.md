@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Training opportunities"
-date: 2016-08-05 20:34:26
+date: 2016-08-30 20:34:26
 image: '/assets/img/'
 description: 'Training opportunity'
 main-class: 'learn'

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sign up for notifications"
-date: 2016-08-05 20:34:26
+date: 2016-08-29 20:34:26
 image: '/assets/img/'
 description: 'Sign up for notifications'
 main-class: 'notice'

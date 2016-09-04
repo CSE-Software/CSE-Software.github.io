@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Search for specific topic"
-date: 2016-08-05 20:35:48
+date: 2016-09-02 20:35:48
 image: '/assets/img/'
 description: 'Search for specific topic'
 main-class: 'search'
@@ -53,6 +53,9 @@ Here are some good resources for getting started:
 * [Eclipse And Java: Free Video Tutorials](http://eclipsetutorial.sourceforge.net/totalbeginner.html)
 * [Eclipse Tutorial](http://www.tutorialspoint.com/eclipse/)
 
+[CppUnit](http://cppunit.sourceforge.net/doc/cvs/cppunit_cookbook.html) is the famous JUnit framework for unit testing.
+Download CppUnit [here](https://sourceforge.net/projects/cppunit/)
+
 ### Techniques
 
 There are some useful techniques using on CSE software:
@@ -76,7 +79,7 @@ of important DOE libraries, improve the practices, processes, and tools for scie
 ##  Relevant organizations 
 
  * [Software Sustainability Institute](https://www.software.ac.uk/) 
- * [Computational Science & Engineering Software Forum](cse-software.org)
+ * [Computational Science & Engineering Software Forum](https://cse-software.org/)
  * [Data Carpentry](http://www.datacarpentry.org/)
  * [Software Carpentry](https://software-carpentry.org/)
 

@@ -46,6 +46,7 @@ Here are some good resources for getting started:
 * [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 * [Git tutorial](https://www.atlassian.com/git/tutorials/)
 * [GitHub tutorial](https://guides.github.com/activities/hello-world/)
+* [Git Tutorial and Reference Collection Introduction](https://ideas-productivity.org/resources/howtos/git-tutorial-and-reference-collection/)
 
 Another useful tool is [Eclipse](https://eclipse.org/)
 Here are some good resources for getting started:
@@ -67,14 +68,14 @@ There are some useful techniques using on CSE software:
 * [Design Patterns](http://www.tutorialspoint.com/design_pattern/design_pattern_overview.htm)
 * [Code refactoring](https://www.csie.ntu.edu.tw/~r95004/Refactoring_improving_the_design_of_existing_code.pdf)
 
-## Blogs
+## Blog
 
-Click [here](https://cse-software.github.io/blogs/) to see blogs which are updated frequently by page members. 
+Click [here](https://cse-software.github.io/blogs/) to see our blog posts, which are updated frequently. 
 
 ## Relevant project
 
-[IDEAS productivity](https://ideas-productivity.org/resources/) is a relevant project with purpose to improve compatibility and usability 
-of important DOE libraries, improve the practices, processes, and tools for scientific software development, and improve community knowledge.
+[IDEAS productivity](https://ideas-productivity.org/resources/) with purpose to improve compatibility and usability 
+of important DOE libraries, improve the practices, processes and tools for scientific software development, and improve community knowledge.
 
 ##  Relevant organizations 
 
@@ -100,6 +101,8 @@ There are two useful Q&A forums:
 
 Here are some good journal about CSE software:
 
+* [Changing research software attitudes and practices](https://www.software.ac.uk/software-sustainability-institute-changing-research-software-attitudes-and-practices)
+* [Better Software, Better Research](https://www.software.ac.uk/resources/publications/better-software-better-research)
 * [Improving CSE Software through Reproducibility Requirements](http://www.sandia.gov/~maherou/docs/HerouxSecseReproducibility.pdf)
 * [Profiling Deployed Software: Assessing Strategies and Testing Opportunities](http://cse.unl.edu/~elbaum/papers/journals/TSE-deployed05.pdf)
 * [Applying Software Engineering Methods and Tools to CSE Research Projects](http://ac.els-cdn.com/S1877050910001687/1-s2.0-S1877050910001687-main.pdf?_tid=2413702c-5ea4-11e6-aa99-00000aab0f02&acdnat=1470797155_ae500e279d8bc07bedc9981e8db597da)

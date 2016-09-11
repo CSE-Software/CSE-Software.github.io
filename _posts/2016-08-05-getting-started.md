@@ -46,7 +46,7 @@ Here are some good resources on testing to get started with:
 
 * [Software Testing Tutorial](http://www.tutorialspoint.com/software_testing/)
 * [Software Testing Tutorial: Free course](http://www.guru99.com/software-testing.html)
-* [SOFTWARE TESTING TUTORIAL](http://www.testingbrain.com/)
+* [What are Software Testing Practice](https://ideas-productivity.org/wordpress/wp-content/uploads/2016/04/IDEAS-TestingWhatAreSoftwareTestingPractices-V0.2.pdf)
 * [Software Testing: How to Make Software Fail](https://www.udacity.com/course/software-testing--cs258)
 
 ## How do I use scientific libraries?
@@ -54,21 +54,17 @@ Here are some good resources on testing to get started with:
 Scientific libraries is the special libraries offer a wide range of mathematical routines such as Linear Algebra, Linear Solvers
 or Eigensystems. These libraries is helpful on reducing time and code for researchers because they are able to solve some particular
 problems. For example, the Linear Algebra library can solve all the linear algebra equations. <br>
-There are two recommended libraries for CSE Software:
+There are some recommended resources for scientific libraries:
  
  * [Trilinos](https://trilinos.org/packages/)
  * [GSL - GNU Scientific Library](https://www.gnu.org/software/gsl/)
- 
-Instructions on using these scientific libraries can easily found on these two websites. <br>
-For any other libraries, you can easily find their instructions on the web page. <br>
-Contact for us for any questions on using scientific libraries
+ * [What are Interoperable Software Libraries?](https://ideas-productivity.org/wordpress/wp-content/uploads/2016/04/IDEAS-InteroperabilityWhatAreInteroperableSoftwareLibraries-V0.1.pdf)
 
 ## How can I prepare for next generation HPC platforms?
 
 [High performance computing](http://searchenterpriselinux.techtarget.com/definition/high-performance-computing)(HPC)
  also called supercomputing, uses the [parallel computing](https://en.wikipedia.org/wiki/Parallel_computing) 
- for running program in a quick and reliable way. Next generation of HPC platforms will be 
- [Crays](http://cfms.org.uk/news-events/news/2016/june/cfms-selects-cray-for-next-generation-hpc-platform/)<br>
+ for running program in a quick and reliable way. Next generation of HPC platforms will focus on Software Productivity.
  Here are some good resources:
  
  * [Introduction to Parallel Computing](https://computing.llnl.gov/tutorials/parallel_comp/)
@@ -76,4 +72,4 @@ Contact for us for any questions on using scientific libraries
  * [HPC for dummies](http://hpc.fs.uni-lj.si/sites/default/files/HPC_for_dummies.pdf)
  * [Best Practices in HPC Software Development](http://insidehpc.com/2016/05/video-what-all-codes-should-do-overview-of-best-practices-in-hpc-software-development/)
  * [Developing, Configuring, Building, and Deploying HPC Software](http://insidehpc.com/2016/05/58848/)
- * [Introduction to Cray](http://www.cray.com/products/analytics/urika-gx)
+ * [Next Generation Applications: Using a Productivity Focus](https://vimeo.com/133560237)

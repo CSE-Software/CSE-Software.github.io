@@ -23,6 +23,6 @@ introduction: 'Collection of best practices for CSE Software'
 
 Our [How_to and What_is project](https://ideas-productivity.org/resources/howtos/) involves in multiple subjects 
 in CSE Software. Everyone are welcome to contribute to refine and update our project over time.
-[Contact us](https://ideas-productivity.org/contact-us/) if you want to contribute. 
+[Contact us](https://ideas-productivity.org/contact-us/) for contributing. 
 
 

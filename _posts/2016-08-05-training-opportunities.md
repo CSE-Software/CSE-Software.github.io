@@ -23,12 +23,13 @@ There are several new how to topic useful for CSE Software topic (continue updat
  * [How to convert Google Doc to LaTeX files](https://cse-software.github.io/Howto/DocsToLatex.html)
  * [How to use Docker in creating Latex files](https://collegeville.github.io/Scribe/DockerLatex.html)
  * [How to learn Jekyll](https://cse-software.github.io/Howto/IntroductionToJekyll.html)
- * [How to set up CSE Software web page theme and contents](/blog/portal_tutorial.pdf) 
+ * [How to set up CSE Software web page theme and contents](https://cse-software.github.io/contribution/) 
 
-## New training resources
+## New training resources (continue updating):
  
  * [Basic Software Engineering](https://collegeville.github.io/Lex/SoftwareEngineeringBasics.html)
  * [C++ For Java Programmers](https://collegeville.github.io/Lex/CPlusPlusForJavaProgrammers.html)
+ * [Introduction to LaTeX](https://collegeville.github.io/Scribe/UsingLatex.html)
  * [Getting started with Trilinos](https://collegeville.github.io/Lex/GettingStartedWithTrilinos.html)
  * [Software Sustainabilty training](https://www.software.ac.uk/what-do-we-do/training)
  * [Software development course](https://www.udacity.com/course/software-development-process--ud805)

@@ -18,7 +18,7 @@ introduction: 'Follow us to receive latest news'
 
 ### Using CSE-Forum
 
-To post a message to all the list members, send email to // To do
+To post a message to all the list members, send email to [dhdo@csbsju.edu](/<mailto:dhdo@csbsju.edu>) To do
 You can subscribe to the list, or change your existing subscription, in the sections below.
 
 ### Subscribing to CSE-Forum

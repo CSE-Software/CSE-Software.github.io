@@ -31,16 +31,16 @@ compress_html:
 links:
   - title: Home
     url: /
-  - title: Community
-    url: /community
-  - title: Bibliography
-    url: /bibliography
+  - title: Getting involved
+    url: /getting-involved
+  - title: Annotated Bibliography
+    url: /annotated-bibliography
   - title: Tags
     url: /tags
   - title: How to contribute
-    url: /contribution
+    url: /how-to-contribute
   - title: About Us
-    url: /about
+    url: /about-us
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']

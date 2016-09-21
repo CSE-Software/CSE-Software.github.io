@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sign up for notifications"
-date: 2016-08-29 20:34:26
+date: 2016-08-26 20:34:26
 image: '/assets/img/'
 description: 'Sign up for notifications'
 main-class: 'notice'
@@ -23,7 +23,7 @@ You can subscribe to the list, or change your existing subscription, in the sect
 
 ### Subscribing to CSE-Forum
 
-Subscribe to CSE-Forum by visiting [our google group](https://groups.google.com/forum/#!members/csesoftware) to subcribe. 
+Subscribe to CSE-Forum by visiting [our google group](https://groups.google.com/forum/#!members/csesoftware) to subscribe. 
 You will be sent email requesting confirmation, to prevent others from gratuitously subscribing you. 
 This is a private list, which means that the list of members is not available to non-members.
 
@@ -33,7 +33,10 @@ Subscribe our [google group](https://groups.google.com/forum/#!forum/csesoftware
 
 ## Webinar signup
 
-Subscribe our [google group](https://groups.google.com/forum/#!forum/csesoftware) to see our Webinar progra
+Subscribe our [google group](https://groups.google.com/forum/#!forum/csesoftware) to see our Webinar program
 
-## Regional CSE SW signup
+## Regional CSE Software gathering
+
+TBD
+
 

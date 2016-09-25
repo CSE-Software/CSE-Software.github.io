@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: search
 title: "Search for specific topic"
 date: 2016-09-02 20:35:48
 image: '/assets/img/'

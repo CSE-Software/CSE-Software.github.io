@@ -1,19 +1,31 @@
 <!DOCTYPE html>
 <html lang="en" itemscope itemtype="http://schema.org/BlogPosting" {% if page.main-class %}class="post-{{ page.main-class }}"{% endif %}>
-    {% include head.html %}
-    <body>
-        {% include svg-icons.html %}
-        {% include header-post.html %}
-        <section class="post">
+{% include head-github.html %}
+<body>
+{% include svg-icons.html %}
+{% include header-github.html %}
 
-            <article role="article" id="post" class="post-content" itemprop="articleBody">
-                {{ content }}
-            </article>
-
-            {% include share.html %}
-            {% include author.html %}
-            {% include comments.html %}
-            {% include footer.html %}
+<div id="content-wrapper">
+    <div class="inner clearfix" align="justify">
+        <section id="main-content">
+            {{ content }}
+            <h4><a href="/index.html">Back to homepage</a></h4>
         </section>
-    </body>
+
+        <aside id="sidebar">
+            <a href="https://github.com/CSE-Software/CSE-Software.github.io/zipball/master" class="button">
+                <small>Download</small>
+                .zip file
+            </a>
+            <a href="https://github.com/CSE-Software/CSE-Software.github.io/tarball/master" class="button">
+                <small>Download</small>
+                .tar.gz file
+            </a>
+
+            <p class="repo-owner"><a href="https://github.com/CSE-Software/CSE-Software.github.io"></a> is maintained by <a href="https://github.com/Collegeville">Collegeville</a>.</p>
+
+        </aside>
+    </div>
+</div>
+</body>
 </html>

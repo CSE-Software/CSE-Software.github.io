@@ -1,5 +1,5 @@
 ---
-layout: search
+layout: post
 title: "Search for specific topic"
 date: 2016-09-02 20:35:48
 image: '/assets/img/'
@@ -21,7 +21,7 @@ introduction: 'Looking for specific topic? Go here and search.'
 [Software](https://en.wikipedia.org/wiki/Software) now becomes essential part in our modern world. 
 Mastering software is required for all computer science researchers and students. 
 Learning more about software [here](https://collegeville.github.io/Lex/index.html). <br>
-[Computational science and engineering](https://en.wikipedia.org/wiki/Computational_engineering)(CSE)
+[Computational Science and Engineering](https://en.wikipedia.org/wiki/Computational_engineering) (CSE)
 is about "development processes for software for computational science and engineering and related technical computing areas, 
 with a particular interest in CSE on high-performance (parallel) computers."
 Visit our [CSE website](https://cse-software.org/) for full detail.
@@ -88,7 +88,7 @@ of important DOE libraries, improve the practices, processes and tools for scien
 
 This webpage has been created by [Michael A. Heroux](https://github.com/maherou) with assistance from
 [Duong Do](https://github.com/duongdo27) and [Jim Willenbring](https://github.com/jwillenbring). 
-Our project is sponsored and funded by [Sandia National Laboratories](http://www.sandia.gov/)/
+Our project is sponsored and funded by [Sandia National Laboratories](http://www.sandia.gov/)
 
 ## Frequently asked question:
 
